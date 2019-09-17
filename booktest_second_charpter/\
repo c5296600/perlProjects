@@ -1,0 +1,2 @@
+my @a_num = (1,2,4);
+print $a_num[3];
